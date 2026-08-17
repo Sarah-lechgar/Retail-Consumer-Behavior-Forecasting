@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 Retail Consumer Behavior Forecasting using Deep Learning
 
 ## 📌 Project Overview
@@ -185,3 +186,7 @@ Interests:
 - Deep Learning
 - Data Science
 - Predictive Analytics
+=======
+# Retail-Consumer-Behavior-Forecasting
+Deep Learning project for retail revenue forecasting using LSTM, GRU, Bi-LSTM and Bi-GRU models.
+>>>>>>> e57b32be72f33c5c3db998a7957538155571d406
